@@ -1,0 +1,6 @@
+语音处理/llvmlite/binding/llvmlite.dll filter=lfs diff=lfs merge=lfs -text
+语音处理/pyopenjtalk/open_jtalk_dic_utf_8-1.11/sys.dic filter=lfs diff=lfs merge=lfs -text
+语音处理/D_latest.pth filter=lfs diff=lfs merge=lfs -text
+语音处理/G_latest.pth filter=lfs diff=lfs merge=lfs -text
+语音处理/torch/lib/dnnl.lib filter=lfs diff=lfs merge=lfs -text
+语音处理/torch/lib/torch_cpu.dll filter=lfs diff=lfs merge=lfs -text
