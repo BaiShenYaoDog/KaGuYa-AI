@@ -1,0 +1,26 @@
+一.安装python
+打开目录下的 python安装包.exe 进行安装,具体教程见
+https://blog.csdn.net/thefg/article/details/128601410
+
+二.补全依赖
+打开目录下的 补全依赖.bat 进行补全,补全完后窗口会自动关闭
+
+三.__,启动！(划掉) AI,启动！
+打开目录下的 启动.bat 将会启动，但是需要你手动修改下直播间号
+在目录下的 bilibili.py 里面,第12行 有一个 21854213 将这个替换为你的直播间号即可
+
+四.安装虚拟麦克风驱动 (Live2D说话 对口型)
+打开目录下的 虚拟麦克风 目录 在里面打开 VBCABLE_Setup_x64.exe 然后点击Install Driver
+(默认会替换你的音频 默认输入设备 和 默认输出设备 你要自己改回来)
+然后打开设置的音量合成器 将里面的 python 使用 CABLE Input 作为 输出设备
+
+VTS设置方法见 VTS设置方法.mp4
+
+===推荐你做的事情===
+因为默认用的我的 智谱AI Token,推荐你替换成你自己的智谱AI Token
+查看Token: https://open.bigmodel.cn/usercenter/apikeys
+修改目录下的 utils.py 里面,第14行 有一个 zhipuai.api_key = "738816676e7cba6f54322257f0086cea.HUAmTq3wdVylTVwT"
+将后面的乱码 替换成你的Token即可
+
+(乱码指的是"738816676e7cba6f54322257f0086cea.HUAmTq3wdVylTVwT")
+[因为这个东西是 谁的token扣谁的余额 但是这个扣的好少，我只是推荐你改成自己的~ 你拿我的用也没关系的]

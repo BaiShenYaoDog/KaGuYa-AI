@@ -1,0 +1,14 @@
+#subtitle {
+  margin: auto;
+  width: 50%;
+  font-size: 40px;
+  color: #f4b61a;
+  font-weight: bold;
+  font-family: '微软雅黑';
+}
+
+#subtitle_bg {
+  min-height: 200px;
+  margin-top: 10px;
+  padding: 5px;
+}
