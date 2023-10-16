@@ -1,6 +1,6 @@
 一.安装python
-打开目录下的 python安装包.exe 进行安装,具体教程见
-https://blog.csdn.net/thefg/article/details/128601410
+由于安装包有点太大了,自己去下吧,链接: https://mirrors.tuna.tsinghua.edu.cn/anaconda/archive/Anaconda3-2023.09-0-Windows-x86_64.exe
+安装方法见 https://blog.csdn.net/fan18317517352/article/details/123035625
 
 二.补全依赖
 打开目录下的 补全依赖.bat 进行补全,补全完后窗口会自动关闭
