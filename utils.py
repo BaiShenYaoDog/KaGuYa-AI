@@ -6,6 +6,7 @@ import requests
 import threading
 import asyncio
 import pygame
+import os
 from queue import Queue
 
 DoneStats = False
@@ -23,6 +24,16 @@ def CheckBlackWord(text):
             return False
     return True
 
+def Music(MusicName):
+    if (os.path.exists(f"./歌单/{MusicName}.wav")):
+        VoiceQueue.put({
+            "Path":f"./歌单/{MusicName}.wav",
+            "text":f"{MusicName}",
+            "WebPrint":False
+        })
+    else:
+        VitsFast("抱歉,我不会唱这首歌!")
+
 #播放音频与网页文本打印机
 async def PlayAudio():
     try:
@@ -31,13 +42,15 @@ async def PlayAudio():
             try:
                 data_json = VoiceQueue.get(block=True)
                 VoicePath = data_json["Path"]
+                WebPrint = data_json["WebPrint"]
 
-                try:
-                    response = requests.get(url=f'http://127.0.0.1:5500/send_message?content={data_json["text"]}')
-                    response.raise_for_status()
-                except Exception as e:
-                    logging.error('web字幕打印机请求失败!请确认配置是否正确或者服务端是否运行!')
-                    logging.error(traceback.format_exc())
+                if(WebPrint):
+                    try:
+                        response = requests.get(url=f'http://127.0.0.1:5500/send_message?content={data_json["text"]}')
+                        response.raise_for_status()
+                    except Exception as e:
+                        logging.error('web字幕打印机请求失败!请确认配置是否正确或者服务端是否运行!')
+                        logging.error(traceback.format_exc())
                 
                 await asyncio.sleep(0.5)
 
@@ -96,7 +109,8 @@ def VitsFast(text):
 
     VoiceQueue.put({
         "Path":VoicePath,
-        "text":text
+        "text":text,
+        "WebPrint":True
     })
     
 #消息处理

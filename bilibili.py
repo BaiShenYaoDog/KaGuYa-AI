@@ -19,6 +19,10 @@ def start():
         content = event["data"]["info"][1]
         if ("[" in content and "]" in content):
             return
+        if (content.startswith("!点歌")):
+            MusicName = content.split("!点歌")[1]
+            utils.Music()
+            return
         user_name = event["data"]["info"][2][1]
         print(f"[{user_name}]: {content}")
         utils.VitsFast(content)
