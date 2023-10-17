@@ -28,7 +28,7 @@ def Music(MusicName):
     if (os.path.exists(f"./歌单/{MusicName}.wav")):
         VoiceQueue.put({
             "Path":f"./歌单/{MusicName}.wav",
-            "text":f"{MusicName}",
+            "text":f"演唱 {MusicName}",
             "WebPrint":False
         })
     else:

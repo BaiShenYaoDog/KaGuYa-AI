@@ -1,0 +1,187 @@
+2023-10-17 22:25:49,521 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:25:49,539 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.0.108:5500
+2023-10-17 22:25:49,539 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-10-17 22:25:49,539 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:25:50,291 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:25:50,295 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:25:50,298 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:25:50,390 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:25:50,391 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:25:50,449 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:25:50,761 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:25:50,767 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "GET /js/index.js HTTP/1.1" 200 -
+2023-10-17 22:25:50,792 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:50] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:25:51,072 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:25:51,101 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:25:51,117 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "GET /socket.io/?EIO=4&transport=polling&t=Oi-1rZK HTTP/1.1" 200 -
+2023-10-17 22:25:51,162 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-17 22:25:51,440 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "POST /socket.io/?EIO=4&transport=polling&t=Oi-1reH&sid=OSvNxIsF3790OjYCAAAA HTTP/1.1" 200 -
+2023-10-17 22:25:51,442 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "GET /socket.io/?EIO=4&transport=polling&t=Oi-1reI&sid=OSvNxIsF3790OjYCAAAA HTTP/1.1" 200 -
+2023-10-17 22:25:51,444 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "GET /socket.io/?EIO=4&transport=polling&t=Oi-1reR HTTP/1.1" 200 -
+2023-10-17 22:25:51,768 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "POST /socket.io/?EIO=4&transport=polling&t=Oi-1rjN&sid=tjdAAmCQZin7xm54AAAC HTTP/1.1" 200 -
+2023-10-17 22:25:51,769 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:51] "GET /socket.io/?EIO=4&transport=polling&t=Oi-1rjR&sid=tjdAAmCQZin7xm54AAAC HTTP/1.1" 200 -
+2023-10-17 22:25:55,017 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:55] "GET /socket.io/?EIO=4&transport=websocket&sid=OSvNxIsF3790OjYCAAAA HTTP/1.1" 200 -
+2023-10-17 22:25:55,329 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:25:55] "GET /socket.io/?EIO=4&transport=websocket&sid=tjdAAmCQZin7xm54AAAC HTTP/1.1" 200 -
+2023-10-17 22:26:31,924 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\__init__.py', reloading
+2023-10-17 22:26:31,937 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\utils\\sync.py', reloading
+2023-10-17 22:26:31,949 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\login.py', reloading
+2023-10-17 22:26:31,977 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\utils\\credential.py', reloading
+2023-10-17 22:26:31,989 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\utils\\utils.py', reloading
+2023-10-17 22:26:32,004 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\live.py', reloading
+2023-10-17 22:26:32,022 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\bilibili_api\\utils\\AsyncEvent.py', reloading
+2023-10-17 22:26:32,390 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\datetime.py', reloading
+2023-10-17 22:26:33,518 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:26:34,233 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:26:34,241 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:26:34,244 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:26:34,624 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:34] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:26:34,658 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:34] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:26:34,863 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:34] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:34,971 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:34] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:35,296 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:35] "GET /socket.io/?EIO=4&transport=polling&t=Oi-20Lc HTTP/1.1" 200 -
+2023-10-17 22:26:35,343 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:35] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-17 22:26:35,557 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:35] "POST /socket.io/?EIO=4&transport=polling&t=Oi-20Qa&sid=W13coLpfSAEyz2OqAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:35,606 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:35] "GET /socket.io/?EIO=4&transport=polling&t=Oi-20Qb&sid=W13coLpfSAEyz2OqAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:37,586 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\logging\\__init__.py', reloading
+2023-10-17 22:26:38,686 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:26:40,061 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:26:40,068 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:26:40,126 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:26:40,527 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "GET /socket.io/?EIO=4&transport=polling&t=Oi-21aL HTTP/1.1" 200 -
+2023-10-17 22:26:40,547 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:26:40,752 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:26:40,863 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "POST /socket.io/?EIO=4&transport=polling&t=Oi-21iI&sid=SZFmcnK_pYwrFCrSAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:40,866 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "GET /socket.io/?EIO=4&transport=polling&t=Oi-21iI.0&sid=SZFmcnK_pYwrFCrSAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:40,927 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:40,927 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:40,949 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:40] "GET /socket.io/?EIO=4&transport=polling&t=Oi-21om HTTP/1.1" 200 -
+2023-10-17 22:26:41,330 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:41] "POST /socket.io/?EIO=4&transport=polling&t=Oi-21p0&sid=oeMJJgb-tuEYJ8bAAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:41,330 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:41] "GET /socket.io/?EIO=4&transport=polling&t=Oi-21p1&sid=oeMJJgb-tuEYJ8bAAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:41,634 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:41] "GET /send_message?content=晚上好!橙汁!啵啵! HTTP/1.1" 200 -
+2023-10-17 22:26:43,692 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:43] "GET /socket.io/?EIO=4&transport=websocket&sid=oeMJJgb-tuEYJ8bAAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:46,990 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\genericpath.py', reloading
+2023-10-17 22:26:48,117 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:26:48,735 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:26:48,742 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:26:48,744 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:26:49,111 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:49] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:26:49,143 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:49] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:26:49,344 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:49] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:49,455 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:49] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:49,787 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:49] "GET /socket.io/?EIO=4&transport=polling&t=Oi-23ts HTTP/1.1" 200 -
+2023-10-17 22:26:50,041 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "POST /socket.io/?EIO=4&transport=polling&t=Oi-23y_&sid=WeqFrDl98cRQPU83AAAA HTTP/1.1" 200 -
+2023-10-17 22:26:50,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "GET /socket.io/?EIO=4&transport=polling&t=Oi-23z1&sid=WeqFrDl98cRQPU83AAAA HTTP/1.1" 200 -
+2023-10-17 22:26:50,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "GET /socket.io/?EIO=4&transport=polling&t=Oi-240P HTTP/1.1" 200 -
+2023-10-17 22:26:50,324 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2428&sid=y8JX6c4BPxf8HewrAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:50,432 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2428.0&sid=y8JX6c4BPxf8HewrAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:50,440 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:50] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2475&sid=y8JX6c4BPxf8HewrAAAC HTTP/1.1" 200 -
+2023-10-17 22:26:52,769 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\os.py', reloading
+2023-10-17 22:26:53,884 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:26:54,495 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:26:54,500 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:26:54,502 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:26:54,884 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:54] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:26:54,913 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:54] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:26:55,108 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:55,216 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:26:55,337 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25Ei HTTP/1.1" 200 -
+2023-10-17 22:26:55,535 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25Hr HTTP/1.1" 200 -
+2023-10-17 22:26:55,661 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "POST /socket.io/?EIO=4&transport=polling&t=Oi-25Jn&sid=M78YAZ-pnAZb8YIgAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:55,661 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25Jo&sid=M78YAZ-pnAZb8YIgAAAA HTTP/1.1" 200 -
+2023-10-17 22:26:55,675 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25K2 HTTP/1.1" 200 -
+2023-10-17 22:26:55,849 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "POST /socket.io/?EIO=4&transport=polling&t=Oi-25Mo&sid=n14B50lEcwR06s5IAAAB HTTP/1.1" 200 -
+2023-10-17 22:26:55,862 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25Mw&sid=n14B50lEcwR06s5IAAAB HTTP/1.1" 200 -
+2023-10-17 22:26:55,992 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "POST /socket.io/?EIO=4&transport=polling&t=Oi-25Oz&sid=gU32U80oDu1Qm3MmAAAD HTTP/1.1" 200 -
+2023-10-17 22:26:55,992 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:55] "GET /socket.io/?EIO=4&transport=polling&t=Oi-25O-&sid=gU32U80oDu1Qm3MmAAAD HTTP/1.1" 200 -
+2023-10-17 22:26:57,325 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:57] "GET /socket.io/?EIO=4&transport=websocket&sid=gU32U80oDu1Qm3MmAAAD HTTP/1.1" 200 -
+2023-10-17 22:26:58,372 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:26:58] "GET /socket.io/?EIO=4&transport=websocket&sid=M78YAZ-pnAZb8YIgAAAA HTTP/1.1" 200 -
+2023-10-17 22:27:46,758 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:27:46,770 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.0.108:5500
+2023-10-17 22:27:46,770 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-10-17 22:27:46,771 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:27:47,463 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:27:47,468 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:27:47,470 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:27:47,483 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2HhU HTTP/1.1" 200 -
+2023-10-17 22:27:47,519 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2I2u&sid=EVH794j6MXRdhXofAAAA HTTP/1.1" 200 -
+2023-10-17 22:27:47,520 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:27:47,830 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:27:47,832 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:27:47,858 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2I2v&sid=EVH794j6MXRdhXofAAAA HTTP/1.1" 200 -
+2023-10-17 22:27:47,861 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:27:47,863 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:47] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:27:48,173 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:27:48,174 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:27:48,175 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:27:48,180 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2I8W HTTP/1.1" 200 -
+2023-10-17 22:27:48,342 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=websocket&sid=EVH794j6MXRdhXofAAAA HTTP/1.1" 200 -
+2023-10-17 22:27:48,500 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2IDN&sid=4pz2UFsBciKZ4EruAAAC HTTP/1.1" 200 -
+2023-10-17 22:27:48,503 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2IDP&sid=4pz2UFsBciKZ4EruAAAC HTTP/1.1" 200 -
+2023-10-17 22:27:48,506 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2IDQ HTTP/1.1" 200 -
+2023-10-17 22:27:48,542 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=websocket&sid=4pz2UFsBciKZ4EruAAAC HTTP/1.1" 200 -
+2023-10-17 22:27:48,764 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2IIT&sid=d-BG2ipy3vKUqBc5AAAE HTTP/1.1" 200 -
+2023-10-17 22:27:48,829 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:27:48] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2IIU&sid=d-BG2ipy3vKUqBc5AAAE HTTP/1.1" 200 -
+2023-10-17 22:28:37,909 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:28:37] "GET /send_message?content=抱歉,我不会唱这首歌! HTTP/1.1" 200 -
+2023-10-17 22:29:00,105 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:00] "GET /send_message?content=抱歉,我不会唱这首歌! HTTP/1.1" 200 -
+2023-10-17 22:29:54,393 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\typing.py', reloading
+2023-10-17 22:29:55,485 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:29:56,229 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:29:56,235 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:29:56,239 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:29:56,641 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:56] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:29:56,673 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:56] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:29:56,857 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:56] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:29:56,981 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:56] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:29:57,296 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2nfv HTTP/1.1" 200 -
+2023-10-17 22:29:57,341 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2ngJ HTTP/1.1" 200 -
+2023-10-17 22:29:57,548 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2nkp&sid=gT41lqsVLIQiwOZdAAAA HTTP/1.1" 200 -
+2023-10-17 22:29:57,618 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "POST /socket.io/?EIO=4&transport=polling&t=Oi-2nlW&sid=VCj8gof4mr4bPhxuAAAB HTTP/1.1" 200 -
+2023-10-17 22:29:57,619 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2nlX&sid=VCj8gof4mr4bPhxuAAAB HTTP/1.1" 200 -
+2023-10-17 22:29:57,667 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:29:57] "GET /socket.io/?EIO=4&transport=polling&t=Oi-2nps&sid=VCj8gof4mr4bPhxuAAAB HTTP/1.1" 200 -
+2023-10-17 22:30:59,213 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:30:59,224 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.0.108:5500
+2023-10-17 22:30:59,225 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-10-17 22:30:59,225 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:30:59,971 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:30:59,976 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:30:59,978 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:30:59,992 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:30:59] "GET /socket.io/?EIO=4&transport=polling&t=Oi-30ZN HTTP/1.1" 200 -
+2023-10-17 22:31:00,024 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,027 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,346 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,348 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "POST /socket.io/?EIO=4&transport=polling&t=Oi-3136&sid=2ObEru3ta6EluVTtAAAA HTTP/1.1" 200 -
+2023-10-17 22:31:00,407 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "GET /socket.io/?EIO=4&transport=polling&t=Oi-3137&sid=2ObEru3ta6EluVTtAAAA HTTP/1.1" 200 -
+2023-10-17 22:31:00,407 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,408 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,610 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,657 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,718 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-17 22:31:00,922 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "GET /socket.io/?EIO=4&transport=polling&t=Oi-31C6 HTTP/1.1" 200 -
+2023-10-17 22:31:00,922 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:00] "GET /socket.io/?EIO=4&transport=polling&t=Oi-31Dp HTTP/1.1" 200 -
+2023-10-17 22:31:01,030 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:01] "POST /socket.io/?EIO=4&transport=polling&t=Oi-31G_&sid=gRtAgNqbnsFHNimKAAAC HTTP/1.1" 200 -
+2023-10-17 22:31:01,250 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:01] "POST /socket.io/?EIO=4&transport=polling&t=Oi-31G_&sid=jI4vYVkIphgwqVKJAAAD HTTP/1.1" 200 -
+2023-10-17 22:31:01,252 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:01] "GET /socket.io/?EIO=4&transport=polling&t=Oi-31H0&sid=gRtAgNqbnsFHNimKAAAC HTTP/1.1" 200 -
+2023-10-17 22:31:01,253 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:01] "GET /socket.io/?EIO=4&transport=polling&t=Oi-31H0&sid=jI4vYVkIphgwqVKJAAAD HTTP/1.1" 200 -
+2023-10-17 22:31:01,267 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:01] "GET /socket.io/?EIO=4&transport=polling&t=Oi-31MB&sid=jI4vYVkIphgwqVKJAAAD HTTP/1.1" 200 -
+2023-10-17 22:31:06,012 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:06] "GET /socket.io/?EIO=4&transport=websocket&sid=2ObEru3ta6EluVTtAAAA HTTP/1.1" 200 -
+2023-10-17 22:31:06,239 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:06] "GET /socket.io/?EIO=4&transport=websocket&sid=gRtAgNqbnsFHNimKAAAC HTTP/1.1" 200 -
+2023-10-17 22:31:06,713 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:06] "GET /socket.io/?EIO=4&transport=websocket&sid=jI4vYVkIphgwqVKJAAAD HTTP/1.1" 200 -
+2023-10-17 22:31:25,333 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:25] "GET /send_message?content=抱歉,我不会唱这首歌! HTTP/1.1" 200 -
+2023-10-17 22:31:33,709 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\requests\\__init__.py', reloading
+2023-10-17 22:31:34,811 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-17 22:31:35,511 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-17 22:31:35,518 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-17 22:31:35,520 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-17 22:31:35,891 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:35] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-17 22:31:35,931 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:35] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-17 22:31:36,129 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:36] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-17 22:31:36,239 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [17/Oct/2023 22:31:36] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
