@@ -1,0 +1,314 @@
+2023-10-22 12:53:10,550 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:53:10,565 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.37:5500
+2023-10-22 12:53:10,566 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-10-22 12:53:10,566 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:53:11,371 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:53:11,376 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:53:11,378 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:53:11,441 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:53:11,444 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:53:11,515 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:53:11,817 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:53:11,826 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:53:11,849 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:11] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:53:12,142 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:53:12,158 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:53:12,188 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "GET /socket.io/?EIO=4&transport=polling&t=OjLkju_ HTTP/1.1" 200 -
+2023-10-22 12:53:12,219 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-22 12:53:12,480 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "GET /socket.io/?EIO=4&transport=polling&t=OjLkjzg HTTP/1.1" 200 -
+2023-10-22 12:53:12,528 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-22 12:53:12,530 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "POST /socket.io/?EIO=4&transport=polling&t=OjLkj-L&sid=2N1WKUUaGrSVWzaPAAAA HTTP/1.1" 200 -
+2023-10-22 12:53:12,531 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "GET /socket.io/?EIO=4&transport=polling&t=OjLkj-M&sid=2N1WKUUaGrSVWzaPAAAA HTTP/1.1" 200 -
+2023-10-22 12:53:12,793 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "POST /socket.io/?EIO=4&transport=polling&t=OjLkk2Z&sid=hiBpVKQHjqudVEeUAAAB HTTP/1.1" 200 -
+2023-10-22 12:53:12,796 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:12] "GET /socket.io/?EIO=4&transport=polling&t=OjLkk2a&sid=hiBpVKQHjqudVEeUAAAB HTTP/1.1" 200 -
+2023-10-22 12:53:14,571 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:14] "GET /socket.io/?EIO=4&transport=websocket&sid=2N1WKUUaGrSVWzaPAAAA HTTP/1.1" 200 -
+2023-10-22 12:53:26,487 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:53:26] "GET /socket.io/?EIO=4&transport=websocket&sid=hiBpVKQHjqudVEeUAAAB HTTP/1.1" 200 -
+2023-10-22 12:55:23,139 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:55:23] "GET /send_message?content=中午好!橙汁!啵啵! HTTP/1.1" 200 -
+2023-10-22 12:55:27,468 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:55:27] "GET /send_message?content=中午好!橙汁!啵啵! HTTP/1.1" 200 -
+2023-10-22 12:56:26,821 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Scripts\\conda-script.py', reloading
+2023-10-22 12:56:27,469 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\deprecations.py', reloading
+2023-10-22 12:56:27,477 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\models\\enums.py', reloading
+2023-10-22 12:56:27,492 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\gateways\\disk\\create.py', reloading
+2023-10-22 12:56:27,504 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\core\\prefix_data.py', reloading
+2023-10-22 12:56:27,516 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\history.py', reloading
+2023-10-22 12:56:27,529 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\core\\solve.py', reloading
+2023-10-22 12:56:27,544 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\plugins\\types.py', reloading
+2023-10-22 12:56:27,558 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\plugins\\hookspec.py', reloading
+2023-10-22 12:56:27,571 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\plugins\\__init__.py', reloading
+2023-10-22 12:56:27,589 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\base\\context.py', reloading
+2023-10-22 12:56:27,605 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\cli\\conda_argparse.py', reloading
+2023-10-22 12:56:27,617 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\cli\\main.py', reloading
+2023-10-22 12:56:27,629 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda\\exception_handler.py', reloading
+2023-10-22 12:56:28,829 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:56:29,585 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:56:29,591 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:56:29,593 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:56:30,004 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:56:30,044 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:56:30,239 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:56:30,348 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:56:30,658 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "GET /socket.io/?EIO=4&transport=polling&t=OjLlUMG HTTP/1.1" 200 -
+2023-10-22 12:56:30,920 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:30] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2023-10-22 12:56:31,203 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:31] "POST /socket.io/?EIO=4&transport=polling&t=OjLlUUg&sid=7Z-jngiNElEsGATiAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:31,218 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:31] "GET /socket.io/?EIO=4&transport=polling&t=OjLlUUi&sid=7Z-jngiNElEsGATiAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:31,224 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:31] "GET /socket.io/?EIO=4&transport=polling&t=OjLlUZs&sid=7Z-jngiNElEsGATiAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:31,422 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:31] "GET /socket.io/?EIO=4&transport=websocket&sid=7Z-jngiNElEsGATiAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:48,198 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\__init__.py', reloading
+2023-10-22 12:56:48,228 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\app.py', reloading
+2023-10-22 12:56:48,346 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\scaffold.py', reloading
+2023-10-22 12:56:48,407 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\helpers.py', reloading
+2023-10-22 12:56:48,441 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\wrappers.py', reloading
+2023-10-22 12:56:48,453 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\werkzeug\\wrappers\\__init__.py', reloading
+2023-10-22 12:56:48,462 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\werkzeug\\wrappers\\response.py', reloading
+2023-10-22 12:56:48,501 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\werkzeug\\sansio\\response.py', reloading
+2023-10-22 12:56:48,514 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\templating.py', reloading
+2023-10-22 12:56:48,526 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jinja2\\__init__.py', reloading
+2023-10-22 12:56:48,537 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jinja2\\environment.py', reloading
+2023-10-22 12:56:48,572 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\globals.py', reloading
+2023-10-22 12:56:48,599 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\json\\__init__.py', reloading
+2023-10-22 12:56:48,643 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\卡古娅数字生命计划\\网页字幕打印机\\utils\\common.py', reloading
+2023-10-22 12:56:48,646 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\卡古娅数字生命计划\\网页字幕打印机\\utils\\logger.py', reloading
+2023-10-22 12:56:48,687 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\sessions.py', reloading
+2023-10-22 12:56:48,710 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\json\\tag.py', reloading
+2023-10-22 12:56:48,746 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flask\\config.py', reloading
+2023-10-22 12:56:49,846 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:56:50,547 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:56:50,553 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:56:50,555 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:56:50,967 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:50] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:56:51,019 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:56:51,196 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:56:51,334 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:56:51,659 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "GET /socket.io/?EIO=4&transport=polling&t=OjLlZUA HTTP/1.1" 200 -
+2023-10-22 12:56:51,905 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "POST /socket.io/?EIO=4&transport=polling&t=OjLlZZI&sid=WcudolXZ6bD91qvqAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:51,982 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "GET /socket.io/?EIO=4&transport=polling&t=OjLlZZK&sid=WcudolXZ6bD91qvqAAAA HTTP/1.1" 200 -
+2023-10-22 12:56:51,989 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:56:51] "GET /socket.io/?EIO=4&transport=polling&t=OjLlZeJ&sid=WcudolXZ6bD91qvqAAAA HTTP/1.1" 200 -
+2023-10-22 12:57:02,351 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:02] "GET /socket.io/?EIO=4&transport=websocket&sid=WcudolXZ6bD91qvqAAAA HTTP/1.1" 200 -
+2023-10-22 12:57:08,035 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\concurrent\\__init__.py', reloading
+2023-10-22 12:57:08,036 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\distutils\\__init__.py', reloading
+2023-10-22 12:57:08,037 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\idlelib\\__init__.py', reloading
+2023-10-22 12:57:08,038 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\lib2to3\\__init__.py', reloading
+2023-10-22 12:57:08,042 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\test\\__init__.py', reloading
+2023-10-22 12:57:08,043 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\turtledemo\\__init__.py', reloading
+2023-10-22 12:57:08,043 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\wsgiref\\__init__.py', reloading
+2023-10-22 12:57:08,043 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\xmlrpc\\__init__.py', reloading
+2023-10-22 12:57:08,044 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\__phello__\\__init__.py', reloading
+2023-10-22 12:57:08,051 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\adodbapi\\__init__.py', reloading
+2023-10-22 12:57:08,051 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\aiobotocore\\__init__.py', reloading
+2023-10-22 12:57:08,051 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\alabaster\\__init__.py', reloading
+2023-10-22 12:57:08,051 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\anaconda_anon_usage\\__init__.py', reloading
+2023-10-22 12:57:08,053 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\anaconda_navigator\\__init__.py', reloading
+2023-10-22 12:57:08,053 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\anaconda_project\\__init__.py', reloading
+2023-10-22 12:57:08,053 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\astropy\\__init__.py', reloading
+2023-10-22 12:57:08,054 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\asttokens\\__init__.py', reloading
+2023-10-22 12:57:08,055 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\atomicwrites\\__init__.py', reloading
+2023-10-22 12:57:08,055 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\babel\\__init__.py', reloading
+2023-10-22 12:57:08,056 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\backcall\\__init__.py', reloading
+2023-10-22 12:57:08,057 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\backports\\__init__.py', reloading
+2023-10-22 12:57:08,057 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\binaryornot\\__init__.py', reloading
+2023-10-22 12:57:08,058 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\binstar_client\\__init__.py', reloading
+2023-10-22 12:57:08,059 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\blackd\\__init__.py', reloading
+2023-10-22 12:57:08,059 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\blib2to3\\__init__.py', reloading
+2023-10-22 12:57:08,059 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\botocore\\__init__.py', reloading
+2023-10-22 12:57:08,060 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\bottleneck\\__init__.py', reloading
+2023-10-22 12:57:08,061 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\brotli\\__init__.py', reloading
+2023-10-22 12:57:08,061 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\cloudpickle\\__init__.py', reloading
+2023-10-22 12:57:08,061 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\clyent\\__init__.py', reloading
+2023-10-22 12:57:08,063 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\colorcet\\__init__.py', reloading
+2023-10-22 12:57:08,065 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_content_trust\\__init__.py', reloading
+2023-10-22 12:57:08,069 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_env\\__init__.py', reloading
+2023-10-22 12:57:08,071 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_index\\__init__.py', reloading
+2023-10-22 12:57:08,072 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_libmamba_solver\\__init__.py', reloading
+2023-10-22 12:57:08,072 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_pack\\__init__.py', reloading
+2023-10-22 12:57:08,073 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_package_handling\\__init__.py', reloading
+2023-10-22 12:57:08,073 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_package_streaming\\__init__.py', reloading
+2023-10-22 12:57:08,074 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_token\\__init__.py', reloading
+2023-10-22 12:57:08,074 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\conda_verify\\__init__.py', reloading
+2023-10-22 12:57:08,074 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\cookiecutter\\__init__.py', reloading
+2023-10-22 12:57:08,075 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\cpuinfo\\__init__.py', reloading
+2023-10-22 12:57:08,076 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\cssselect\\__init__.py', reloading
+2023-10-22 12:57:08,077 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\curl\\__init__.py', reloading
+2023-10-22 12:57:08,078 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\cytoolz\\__init__.py', reloading
+2023-10-22 12:57:08,078 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\daal4py\\__init__.py', reloading
+2023-10-22 12:57:08,078 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\datasets\\__init__.py', reloading
+2023-10-22 12:57:08,079 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\datashader\\__init__.py', reloading
+2023-10-22 12:57:08,079 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\datashape\\__init__.py', reloading
+2023-10-22 12:57:08,080 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\diff_match_patch\\__init__.py', reloading
+2023-10-22 12:57:08,080 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\dill\\__init__.py', reloading
+2023-10-22 12:57:08,081 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\erfa\\__init__.py', reloading
+2023-10-22 12:57:08,081 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\et_xmlfile\\__init__.py', reloading
+2023-10-22 12:57:08,081 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\flake8\\__init__.py', reloading
+2023-10-22 12:57:08,082 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\future\\__init__.py', reloading
+2023-10-22 12:57:08,082 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\gensim\\__init__.py', reloading
+2023-10-22 12:57:08,083 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\glob2\\__init__.py', reloading
+2023-10-22 12:57:08,083 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\h5py\\__init__.py', reloading
+2023-10-22 12:57:08,083 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\hvplot\\__init__.py', reloading
+2023-10-22 12:57:08,083 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\intervaltree\\__init__.py', reloading
+2023-10-22 12:57:08,083 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\ipython_genutils\\__init__.py', reloading
+2023-10-22 12:57:08,084 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\ipywidgets\\__init__.py', reloading
+2023-10-22 12:57:08,084 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\itemadapter\\__init__.py', reloading
+2023-10-22 12:57:08,085 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\itemloaders\\__init__.py', reloading
+2023-10-22 12:57:08,085 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jedi\\__init__.py', reloading
+2023-10-22 12:57:08,085 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyterlab\\__init__.py', reloading
+2023-10-22 12:57:08,087 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyterlab_plotly\\__init__.py', reloading
+2023-10-22 12:57:08,087 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyterlab_pygments\\__init__.py', reloading
+2023-10-22 12:57:08,088 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyterlab_widgets\\__init__.py', reloading
+2023-10-22 12:57:08,088 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyter_console\\__init__.py', reloading
+2023-10-22 12:57:08,089 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyter_server_fileid\\__init__.py', reloading
+2023-10-22 12:57:08,089 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyter_server_ydoc\\__init__.py', reloading
+2023-10-22 12:57:08,090 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\jupyter_ydoc\\__init__.py', reloading
+2023-10-22 12:57:08,090 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\kaleido\\__init__.py', reloading
+2023-10-22 12:57:08,091 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\libfuturize\\__init__.py', reloading
+2023-10-22 12:57:08,091 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\libmambapy\\__init__.py', reloading
+2023-10-22 12:57:08,091 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\libpasteurize\\__init__.py', reloading
+2023-10-22 12:57:08,091 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\linkify_it\\__init__.py', reloading
+2023-10-22 12:57:08,092 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\llvmlite\\__init__.py', reloading
+2023-10-22 12:57:08,092 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\lxml\\__init__.py', reloading
+2023-10-22 12:57:08,092 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\lz4\\__init__.py', reloading
+2023-10-22 12:57:08,093 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\matplotlib\\pylab.py', reloading
+2023-10-22 12:57:08,093 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\matplotlib\\tests\\__init__.py', reloading
+2023-10-22 12:57:08,093 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\matplotlib\\tight_bbox.py', reloading
+2023-10-22 12:57:08,094 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\matplotlib_inline\\__init__.py', reloading
+2023-10-22 12:57:08,094 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\menuinst\\__init__.py', reloading
+2023-10-22 12:57:08,094 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\mkl\\__init__.py', reloading
+2023-10-22 12:57:08,095 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\mpmath\\__init__.py', reloading
+2023-10-22 12:57:08,095 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\msgpack\\__init__.py', reloading
+2023-10-22 12:57:08,095 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\multipledispatch\\__init__.py', reloading
+2023-10-22 12:57:08,095 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\navigator_updater\\__init__.py', reloading
+2023-10-22 12:57:08,097 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\nbclassic\\__init__.py', reloading
+2023-10-22 12:57:08,097 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\nbclient\\__init__.py', reloading
+2023-10-22 12:57:08,097 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\nbconvert\\__init__.py', reloading
+2023-10-22 12:57:08,097 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\nltk\\__init__.py', reloading
+2023-10-22 12:57:08,098 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\notebook\\__init__.py', reloading
+2023-10-22 12:57:08,098 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\notebook_shim\\__init__.py', reloading
+2023-10-22 12:57:08,098 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\numexpr\\__init__.py', reloading
+2023-10-22 12:57:08,099 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\numpydoc\\__init__.py', reloading
+2023-10-22 12:57:08,099 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\param\\__init__.py', reloading
+2023-10-22 12:57:08,099 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\parsel\\__init__.py', reloading
+2023-10-22 12:57:08,099 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\parso\\__init__.py', reloading
+2023-10-22 12:57:08,100 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\partd\\__init__.py', reloading
+2023-10-22 12:57:08,100 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\past\\__init__.py', reloading
+2023-10-22 12:57:08,100 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\PIL\\__init__.py', reloading
+2023-10-22 12:57:08,100 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\ptyprocess\\__init__.py', reloading
+2023-10-22 12:57:08,101 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pyarrow\\__init__.py', reloading
+2023-10-22 12:57:08,101 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pyasn1_modules\\__init__.py', reloading
+2023-10-22 12:57:08,101 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pyct\\__init__.py', reloading
+2023-10-22 12:57:08,102 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pydispatch\\__init__.py', reloading
+2023-10-22 12:57:08,102 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pydocstyle\\__init__.py', reloading
+2023-10-22 12:57:08,102 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pyls_spyder\\__init__.py', reloading
+2023-10-22 12:57:08,103 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\PyQt5\\__init__.py', reloading
+2023-10-22 12:57:08,103 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pyviz_comms\\__init__.py', reloading
+2023-10-22 12:57:08,103 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\qdarkstyle\\__init__.py', reloading
+2023-10-22 12:57:08,104 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\qstylizer\\__init__.py', reloading
+2023-10-22 12:57:08,104 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\qtawesome\\__init__.py', reloading
+2023-10-22 12:57:08,104 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\qtconsole\\__init__.py', reloading
+2023-10-22 12:57:08,104 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\queuelib\\__init__.py', reloading
+2023-10-22 12:57:08,105 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\repo_cli\\__init__.py', reloading
+2023-10-22 12:57:08,105 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\rope\\__init__.py', reloading
+2023-10-22 12:57:08,105 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\ruamel_yaml\\__init__.py', reloading
+2023-10-22 12:57:08,105 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\s3fs\\__init__.py', reloading
+2023-10-22 12:57:08,106 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\safetensors\\__init__.py', reloading
+2023-10-22 12:57:08,106 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\scipy\\conftest.py', reloading
+2023-10-22 12:57:08,107 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\scipy\\setup.py', reloading
+2023-10-22 12:57:08,107 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\scipy\\version.py', reloading
+2023-10-22 12:57:08,107 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\seaborn\\__init__.py', reloading
+2023-10-22 12:57:08,108 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\sipbuild\\__init__.py', reloading
+2023-10-22 12:57:08,108 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\snappy\\__init__.py', reloading
+2023-10-22 12:57:08,108 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\spyder\\__init__.py', reloading
+2023-10-22 12:57:08,108 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\spyder_kernels\\__init__.py', reloading
+2023-10-22 12:57:08,109 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\stack_data\\__init__.py', reloading
+2023-10-22 12:57:08,109 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\textdistance\\__init__.py', reloading
+2023-10-22 12:57:08,109 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\text_unidecode\\__init__.py', reloading
+2023-10-22 12:57:08,110 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\three_merge\\__init__.py', reloading
+2023-10-22 12:57:08,110 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\tinycss2\\__init__.py', reloading
+2023-10-22 12:57:08,110 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\tlz\\__init__.py', reloading
+2023-10-22 12:57:08,110 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\toolz\\__init__.py', reloading
+2023-10-22 12:57:08,110 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\transformers\\__init__.py', reloading
+2023-10-22 12:57:08,111 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\tzdata\\__init__.py', reloading
+2023-10-22 12:57:08,111 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\uc_micro\\__init__.py', reloading
+2023-10-22 12:57:08,111 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\w3lib\\__init__.py', reloading
+2023-10-22 12:57:08,112 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\watchdog\\__init__.py', reloading
+2023-10-22 12:57:08,112 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\webencodings\\__init__.py', reloading
+2023-10-22 12:57:08,112 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\websocket\\__init__.py', reloading
+2023-10-22 12:57:08,112 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\wheel\\__init__.py', reloading
+2023-10-22 12:57:08,113 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\widgetsnbextension\\__init__.py', reloading
+2023-10-22 12:57:08,113 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\win32ctypes\\__init__.py', reloading
+2023-10-22 12:57:08,113 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\winpty\\__init__.py', reloading
+2023-10-22 12:57:08,113 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\wrapt\\__init__.py', reloading
+2023-10-22 12:57:08,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\xyzservices\\__init__.py', reloading
+2023-10-22 12:57:08,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\yapf\\__init__.py', reloading
+2023-10-22 12:57:08,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\yapftests\\__init__.py', reloading
+2023-10-22 12:57:08,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\zope\\__init__.py', reloading
+2023-10-22 12:57:08,114 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\python\\conda\\Lib\\site-packages\\pythonwin\\pywin\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\absl\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\antlr4\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\apscheduler\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\audioread\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\Cython\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\functorch\\__init__.py', reloading
+2023-10-22 12:57:08,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\gradio\\__init__.py', reloading
+2023-10-22 12:57:08,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\multipart\\__init__.py', reloading
+2023-10-22 12:57:08,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\nvfuser\\__init__.py', reloading
+2023-10-22 12:57:08,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\openunmix\\__init__.py', reloading
+2023-10-22 12:57:08,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\pooch\\__init__.py', reloading
+2023-10-22 12:57:08,117 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydevd_plugins\\__init__.py', reloading
+2023-10-22 12:57:08,117 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\pydub\\__init__.py', reloading
+2023-10-22 12:57:08,117 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\pyworld\\__init__.py', reloading
+2023-10-22 12:57:08,118 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\pyximport\\__init__.py', reloading
+2023-10-22 12:57:08,118 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\qrcode_terminal\\__init__.py', reloading
+2023-10-22 12:57:08,119 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\resampy\\__init__.py', reloading
+2023-10-22 12:57:08,119 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\semantic_version\\__init__.py', reloading
+2023-10-22 12:57:08,121 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\simple_websocket\\__init__.py', reloading
+2023-10-22 12:57:08,121 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\soxr\\__init__.py', reloading
+2023-10-22 12:57:08,121 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\tensorboard_data_server\\__init__.py', reloading
+2023-10-22 12:57:08,122 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torchgen\\__init__.py', reloading
+2023-10-22 12:57:08,122 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torchvision\\__init__.py', reloading
+2023-10-22 12:57:09,849 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:57:10,649 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:57:10,654 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:57:10,660 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:57:10,961 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\distributed\\_shard\\sharded_tensor\\__init__.py', reloading
+2023-10-22 12:57:10,967 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\distributed\\_shard\\sharded_tensor\\_ops\\__init__.py', reloading
+2023-10-22 12:57:10,989 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\distributed\\_shard\\sharding_spec\\__init__.py', reloading
+2023-10-22 12:57:11,076 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:57:11,113 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:57:11,295 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:11,421 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:11,743 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "GET /socket.io/?EIO=4&transport=polling&t=OjLleO1 HTTP/1.1" 200 -
+2023-10-22 12:57:11,989 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:11] "POST /socket.io/?EIO=4&transport=polling&t=OjLleT2&sid=F6fR6UcnCEn3PDnbAAAA HTTP/1.1" 200 -
+2023-10-22 12:57:12,581 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:57:13,477 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:57:13,482 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:57:13,485 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:57:13,906 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:13] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:57:13,942 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:13] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:57:14,146 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:14,255 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:14,282 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\common.py', reloading
+2023-10-22 12:57:14,288 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\timer.py', reloading
+2023-10-22 12:57:14,298 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\compare.py', reloading
+2023-10-22 12:57:14,303 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\fuzzer.py', reloading
+2023-10-22 12:57:14,337 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\valgrind_wrapper\\timer_interface.py', reloading
+2023-10-22 12:57:14,345 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'C:\\Users\\ChengZhiYa\\AppData\\Roaming\\Python\\Python311\\site-packages\\torch\\utils\\benchmark\\utils\\sparse_fuzzer.py', reloading
+2023-10-22 12:57:14,567 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "GET /socket.io/?EIO=4&transport=polling&t=OjLlf4J HTTP/1.1" 200 -
+2023-10-22 12:57:14,832 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "POST /socket.io/?EIO=4&transport=polling&t=OjLlf9A&sid=CHF28pDfIhHTDAs-AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:14,879 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "GET /socket.io/?EIO=4&transport=polling&t=OjLlf9B&sid=CHF28pDfIhHTDAs-AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:14,966 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:14] "GET /socket.io/?EIO=4&transport=websocket&sid=CHF28pDfIhHTDAs-AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:15,587 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-10-22 12:57:16,367 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:57] - INFO: 浏览器访问地址：http://localhost:5500/index.html
+2023-10-22 12:57:16,372 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-10-22 12:57:16,375 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-10-22 12:57:16,776 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:16] "[36mGET /index.html HTTP/1.1[0m" 304 -
+2023-10-22 12:57:16,814 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:16] "[36mGET /css/index.css HTTP/1.1[0m" 304 -
+2023-10-22 12:57:16,997 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:16] "[36mGET /js/socket.io.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:17,121 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:17] "[36mGET /js/index.js HTTP/1.1[0m" 304 -
+2023-10-22 12:57:17,446 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:17] "GET /socket.io/?EIO=4&transport=polling&t=OjLlfn8 HTTP/1.1" 200 -
+2023-10-22 12:57:17,701 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:17] "POST /socket.io/?EIO=4&transport=polling&t=OjLlfsC&sid=QwUrYAeexBNyuAn6AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:17,760 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:17] "GET /socket.io/?EIO=4&transport=polling&t=OjLlfsE&sid=QwUrYAeexBNyuAn6AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:17,766 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [22/Oct/2023 12:57:17] "GET /socket.io/?EIO=4&transport=polling&t=OjLlfx2&sid=QwUrYAeexBNyuAn6AAAA HTTP/1.1" 200 -
+2023-10-22 12:57:25,082 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\卡古娅数字生命计划\\网页字幕打印机\\app.py', reloading
+2023-10-22 12:57:25,082 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Detected change in 'D:\\卡古娅数字生命计划\\网页字幕打印机\\app.py', reloading
+2023-10-22 12:57:26,205 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)

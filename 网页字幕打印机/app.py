@@ -53,6 +53,5 @@ def send_message():
 if __name__ == '__main__':
     port = 5500
     url = f'http://localhost:{port}/index.html'
-    webbrowser.open(url)
-    logging.info(f"浏览器访问地址：{url}")
+    logging.info(f"服务端链接：{url}")
     socketio.run(app, host='0.0.0.0', port=port, debug=True)
