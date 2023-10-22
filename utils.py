@@ -28,8 +28,7 @@ def Music(MusicName):
     if (os.path.exists(f"./歌单/{MusicName}.wav")):
         VoiceQueue.put({
             "Path":f"./歌单/{MusicName}.wav",
-            "text":f"演唱 {MusicName}",
-            "WebPrint":False
+            "text":f"演唱 {MusicName}"
         })
     else:
         VitsFast("抱歉,我不会唱这首歌!")
@@ -42,16 +41,7 @@ async def PlayAudio():
             try:
                 data_json = VoiceQueue.get(block=True)
                 VoicePath = data_json["Path"]
-                WebPrint = data_json["WebPrint"]
 
-                if(WebPrint):
-                    try:
-                        response = requests.get(url=f'http://127.0.0.1:5500/send_message?content={data_json["text"]}')
-                        response.raise_for_status()
-                    except Exception as e:
-                        logging.error('web字幕打印机请求失败!请确认配置是否正确或者服务端是否运行!')
-                        logging.error(traceback.format_exc())
-                
                 await asyncio.sleep(0.5)
 
                 mixer_normal.music.load(VoicePath)
@@ -64,7 +54,15 @@ async def PlayAudio():
         Audio.mixer_normal.quit()
     except Exception as e:
         logging.error(traceback.format_exc())
-        
+
+#网页文本打印机
+def WebPrint(text):
+    try:
+        response = requests.get(url=f'http://127.0.0.1:5500/send_message?content={text}')
+        response.raise_for_status()
+    except Exception as e:
+        logging.error('无法连接网页文本打印机!')
+
 #VitsFast音频处理
 def VitsFast(text):
     if (DoneStats == False):
@@ -109,9 +107,9 @@ def VitsFast(text):
 
     VoiceQueue.put({
         "Path":VoicePath,
-        "text":text,
-        "WebPrint":True
+        "text":text
     })
+    WebPrint(text)
     
 #消息处理
 def get_resp(text):
