@@ -16,12 +16,12 @@ def start():
     #弹幕
     @room.on('DANMU_MSG')
     async def _(event):
-        content = event["data"]["info"][1]
+        content = str(event["data"]["info"][1]).replace("！","!").replace("<"," ").replace(">","")
         user_name = event["data"]["info"][2][1]
         if ("[" in content and "]" in content):
             return
         if (content.startswith("!点歌 ")):
-            MusicName = content.split("!点歌 ")[1]
+            MusicName = content.split("!点歌 ")[1].replace(" ","")
             print(f"{user_name} 点歌 {MusicName}")
             utils.Music(MusicName)
             return
