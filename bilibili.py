@@ -61,20 +61,23 @@ def start():
     #进入直播间
     @room.on('INTERACT_WORD')
     async def _(event):
-        user_name = event["data"]["data"]["uname"]
-        print(f"{user_name} 进入直播间")
-        text = "欢迎"+user_name
-        if (datetime.datetime.now().hour >= 6 and datetime.datetime.now().hour <= 10):
-            text = f"上午好!{user_name}!啵啵!"
-        if (datetime.datetime.now().hour >= 11 and datetime.datetime.now().hour <= 12):
-            text = f"中午好!{user_name}!啵啵!"
-        if (datetime.datetime.now().hour >= 13 and datetime.datetime.now().hour <= 17):
-            text = f"下午好!{user_name}!啵啵!"
-        if (datetime.datetime.now().hour >= 18 and datetime.datetime.now().hour <= 23):
-            text = f"晚上好!{user_name}!啵啵!"
-        if (datetime.datetime.now().hour >= 0 and datetime.datetime.now().hour <= 5):
-            text = f"晚上好!{user_name}!啵啵!"
-        utils.VitsFast(text)
+        print(event["data"]["data"])
+        if (event["data"]["data"]["msg_type"] == 1):
+            user_name = event["data"]["data"]["uname"]
+            print(f"{user_name} 进入直播间")
+            text = "欢迎"+user_name
+            if (datetime.datetime.now().hour >= 6 and datetime.datetime.now().hour <= 10):
+                text = f"上午好!{user_name}!啵啵!"
+            if (datetime.datetime.now().hour >= 11 and datetime.datetime.now().hour <= 12):
+                text = f"中午好!{user_name}!啵啵!"
+            if (datetime.datetime.now().hour >= 13 and datetime.datetime.now().hour <= 17):
+                text = f"下午好!{user_name}!啵啵!"
+            if (datetime.datetime.now().hour >= 18 and datetime.datetime.now().hour <= 23):
+                text = f"晚上好!{user_name}!啵啵!"
+            if (datetime.datetime.now().hour >= 0 and datetime.datetime.now().hour <= 5):
+                text = f"晚上好!{user_name}!啵啵!"
+            utils.VitsFast(text)
+            
 
     #启动 Bilibili 直播间连接
     try:
