@@ -13,6 +13,8 @@ DoneStats = False
 history = []
 VoiceQueue = Queue()
 mixer_normal = pygame.mixer
+Debug = False
+Live = True
 
 #敏感词检测
 def CheckBlackWord(text):
@@ -24,6 +26,7 @@ def CheckBlackWord(text):
             return False
     return True
 
+#点歌系统
 def Music(MusicName):
     if (os.path.exists(f"./歌单/{MusicName}.wav")):
         VoiceQueue.put({
@@ -117,7 +120,7 @@ def get_resp(text):
         history.append({"role": "user", "content": text})
 
         ret = zhipuai.model_api.invoke(
-            model="chatglm_lite",
+            model="chatglm_turbo",
             prompt=history,
             top_p=0.9,
             temperature=0.7,
@@ -132,16 +135,21 @@ def get_resp(text):
         resp_content = ret['data']['choices'][0]['content']
         resp_content = resp_content.replace(" ","")
         resp_content = resp_content.replace("\\\"","")
+        resp_content = resp_content.replace("\n","")
+        resp_content = resp_content.replace("\\n","")
         resp_content = resp_content.replace("白神遥桌上の橙汁","橙汁")
         resp_content = resp_content.replace("喵小乐是喵喵","喵喵")
         resp_content = resp_content.replace("人工智能助手","卡古娅AI")
         resp_content = resp_content.replace("の","的")
+        resp_content = resp_content.replace("mua","啵啵")
         history.append({"role": "assistant", "content": resp_content})
 
-        if (CheckBlackWord(resp_content) == False):
-            return None
+        if (Live):
+            if (CheckBlackWord(resp_content) == False):
+                return None
         
-        VitsFast(resp_content)
+        if (Debug == False):
+            VitsFast(resp_content)
         return resp_content
     except Exception as e:
         logging.error(traceback.format_exc())

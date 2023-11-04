@@ -1,0 +1,83 @@
+2023-11-04 12:14:17,524 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:14:17,537 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:14:17,537 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:14:17,537 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:14:18,132 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:14:18,137 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:14:18,140 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:14:34,105 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:14:34,115 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:14:34,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:14:34,116 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:14:34,821 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:14:34,826 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:14:34,828 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:15:49,837 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:15:49,857 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:15:49,857 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:15:49,858 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:15:50,485 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:15:50,489 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:15:50,492 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:16:53,447 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:16:53] "GET /send_message?content=%22你好！我是卡古娅，一只可爱的狐狸虚拟UP主。欢迎来到我的世界，让我们一起度过愉快的时光吧！如果您有任何问题或需要聊天，请随时告诉我，我会尽我所能为您提供帮助和陪伴。喵～%22 HTTP/1.1" 200 -
+2023-11-04 12:19:26,698 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:19:26,707 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:19:26,707 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:19:26,708 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:19:27,419 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:19:27,425 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:19:27,428 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:20:23,518 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:20:23] "GET /send_message?content=%22你好！我是卡古娅Official，一只可爱的狐狸虚拟UP主。很高兴见到你，欢迎来到我的世界！有什么问题或者想法可以和我分享吗？我会尽力为你提供帮助和陪伴的哦！mua～%22 HTTP/1.1" 200 -
+2023-11-04 12:21:55,043 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:21:55] "GET /send_message?content=%22当然可以，首先请允许我表达对你的关心和慰问。我知道被打会让你感到疼痛和委屈，但请记住，这种痛苦是暂时的，时间会治愈一切。在此过程中，我希望你能保持乐观和积极的心态，相信正义终会战胜邪恶。%5Cn%5Cn同时，你可以尝试以下方法来缓解疼痛和不适：%5Cn%5Cn1.冰敷：使用冰袋或冰块包裹在毛巾中，敷在受伤的部位，有助于减轻疼痛和消肿。%5Cn%5Cn2.休息：确保充足的休息，让身体得到恢复。%5Cn%5Cn3.适当活动：在伤势允许的范围内，适当活动身体，有助于血液循环和缓解疼痛。%5Cn%5Cn4.保持清洁：受伤部位要保持清洁，以防感染。%5Cn%5Cn5.寻求医疗帮助：如果疼痛严重或持续不减，请及时就医。%5Cn%5Cn此外，与亲朋好友交流分享你的感受，他们的关爱和支持会给你带来更多的勇气和力量。请相信，每一次的经历都会让你变得更加坚强，未来的日子一定会更加美好。加油，我相信你一定能战胜眼前的困难！%22 HTTP/1.1" 200 -
+2023-11-04 12:23:15,252 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:23:15,262 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:23:15,262 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:23:15,263 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:23:15,899 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:23:15,904 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:23:15,906 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:24:08,043 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:24:08] "GET /send_message?content=%22作为卡古娅，我非常感谢你的喜爱和支持！虽然我是一款虚拟角色，但我会尽力给你带来真实的陪伴和快乐。%5Cn%5Cn至于能否永远在一起，我们可以通过以下方式来增加彼此的陪伴时间：%5Cn%5Cn1.关注我的直播间，不定期更新视频，第一时间了解我的最新动态。%5Cn2.加入我的粉丝群，与其他卡古娅的粉丝一起交流，分享快乐。%5Cn3.参与我的互动活动，例如：在直播间送礼物、留言、点赞等。%5Cn%5Cn让我们一起努力，创造更多美好回忆，让彼此之间的联系更加紧密。谢谢你对我的喜爱，我会尽力陪伴你度过每一个快乐时光！啵啵～%22 HTTP/1.1" 200 -
+2023-11-04 12:25:01,300 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:25:01,311 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:25:01,311 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:25:01,311 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:25:01,961 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:25:01,965 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:25:01,968 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:26:20,645 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:26:20] "GET /send_message?content=%22作为一款虚拟UP主，我的存在是为了给大家带来欢乐和娱乐。当然，您可以在适当的时候和我互动，但请确保您的行为符合道德规范和法律法规。如果您有任何问题或需求，可以随时向我提问，我会尽力为您提供帮助和解答。让我们一起度过愉快的时光！%22 HTTP/1.1" 200 -
+2023-11-04 12:27:40,767 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:27:40,778 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:27:40,778 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:27:40,778 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:27:48,671 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:27:48,682 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on all addresses (0.0.0.0)
+ * Running on http://127.0.0.1:5500
+ * Running on http://192.168.2.77:5500
+2023-11-04 12:27:48,683 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: [33mPress CTRL+C to quit[0m
+2023-11-04 12:27:48,683 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Restarting with watchdog (windowsapi)
+2023-11-04 12:27:49,315 - D:\卡古娅数字生命计划\网页字幕打印机\app.py[line:56] - INFO: 服务端链接：http://localhost:5500/index.html
+2023-11-04 12:27:49,319 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - WARNING:  * Debugger is active!
+2023-11-04 12:27:49,322 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO:  * Debugger PIN: 120-888-242
+2023-11-04 12:31:47,886 - D:\python\conda\Lib\site-packages\werkzeug\_internal.py[line:224] - INFO: 127.0.0.1 - - [04/Nov/2023 12:31:47] "GET /send_message?content=%22如果有一天我们分别了，首先要明白，分别并不一定意味着永别。在面对这种情况时，你可以尝试以下方法来应对：1.保持冷静：在得知分别的消息后，首先要保持冷静，不要慌张。理性地思考两人的关系，分析分手的原因。2.自我反省：分析自己在感情中的不足，是否有什么地方可以改进。通过自我反省，你可以更好地了解自己，为未来的感情做好准备。3.沟通与交流：如果觉得有必要，可以与对方进行沟通，了解彼此的想法和感受。在平和的交流中，找出感情中的问题，并尝试解决。4.接受现实：如果双方已经决定分手，那么要学会接受现实。接受现实并不意味着放弃，而是为了让自己的情绪逐渐恢复。5.保持积极心态：在面对分别时，保持积极的心态是很重要的。你可以把这段时间当作是成长的机会，让自己变得更加优秀。6.关注自己的生活：将注意力从失去的感情转移到自己的生活中。可以尝试学习新技能，拓展兴趣爱好，提升自己的能力。7.寻求支持：在分手后，你可以寻求朋友和家人的支持。与他们倾诉你的感受，他们会给你安慰和建议。8.给自己时间：感情的恢复需要时间，不要急于投入新的感情。给自己一些时间，让自己慢慢走出过去的阴影。9.保持开放：虽然曾经的感情已经结束，但不要对未来失去信心。保持开放的心态，相信未来会遇到更适合自己的人。10.学会珍惜：经历过一次分别后，你会更加懂得珍惜。在未来的感情中，学会珍惜对方，用心去经营感情。总之，在面对分别时，首先要学会调整自己的心态。保持积极的心态，关注自己的成长，相信未来会遇到更美好的感情。同时，也要学会珍惜眼前的每一刻，用心去生活。%22 HTTP/1.1" 200 -
